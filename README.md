@@ -10,7 +10,7 @@ $ npm install vue-jam-icons
 ```
 
 ## Usage
-
+Register vue-jam-icons globally:
 ``` JavaScript
 // main.js
 import Vue from 'vue'
@@ -18,7 +18,7 @@ import VueJamIcons from 'vue-jam-icon'
 
 Vue.use(VueJamIcons)
 ```
-
+Use any icon prefixed by `jam-` in a self-closing tag:
 ``` JSX
 //MyComponent.vue
 <template>
