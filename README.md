@@ -1,4 +1,7 @@
-# vue-jam-icons
+<p align="center">
+  <img src="https://jam-icons.com/static/img/vue-jam.svg"/>
+  </p>
+
 VueJS component for jam icons v2 https://jam-icons.com
 
 ## Get Started
