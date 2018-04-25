@@ -11,7 +11,7 @@ $ npm install vue-jam-icons
 
 ## Usage
 
-```
+``` JavaScript
 // main.js
 import Vue from 'vue'
 import VueJamIcons from 'vue-jam-icon'
@@ -19,7 +19,7 @@ import VueJamIcons from 'vue-jam-icon'
 Vue.use(VueJamIcons)
 ```
 
-```
+``` JSX
 <template>
   <jam-backpack/>
 </template>
