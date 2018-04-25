@@ -1,0 +1,11 @@
+{
+  "name": "vue-jam-icons",
+  "version": "1.0.0",
+  "description": "Vue Wrapper Component for Jam Icons V2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "author": "Michael A <@michaelampr> (https://michaelamprimo.com)",
+  "license": "MIT"
+}
