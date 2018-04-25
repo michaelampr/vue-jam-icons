@@ -20,6 +20,7 @@ Vue.use(VueJamIcons)
 ```
 
 ``` JSX
+//MyComponent.vue
 <template>
   <jam-backpack/>
 </template>
