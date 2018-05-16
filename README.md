@@ -17,7 +17,7 @@ Register vue-jam-icons globally:
 ``` JavaScript
 // main.js
 import Vue from 'vue'
-import VueJamIcons from 'vue-jam-icon'
+import VueJamIcons from 'vue-jam-icons'
 
 Vue.use(VueJamIcons)
 ```
