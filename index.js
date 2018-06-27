@@ -897,7 +897,7 @@ import WriteF from "./components/write-f.vue"
 
 
 export default {
-   install: (Vue) => {
+   install: function(Vue){
        Vue.component("jam-arrow-circle-down-left", ArrowCircleDownLeft);
        Vue.component("jam-arrow-circle-down-right", ArrowCircleDownRight);
        Vue.component("jam-arrow-circle-down", ArrowCircleDown);
